@@ -1,0 +1,23 @@
+.vs
+.vscode
+.cmake
+build
+Cmake.dir
+CMakeFiles
+Debug
+x64
+*.make
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.users
+CMakeCache.txt
+Cmake.sln
+CMake.txt
+Cmake.vcxproj.user
+New Text Document.txt
+cmake_install.cmake
+ALL_BUILD.vcxproj.user
+Project.sln
+
+
+
